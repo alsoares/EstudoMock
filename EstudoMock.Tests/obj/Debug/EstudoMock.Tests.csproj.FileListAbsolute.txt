@@ -1,0 +1,17 @@
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\obj\Debug\EstudoMock.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\EstudoMock.Tests.dll
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\EstudoMock.Tests.pdb
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\EstudoMock.exe
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\EstudoMock.pdb
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\obj\Debug\EstudoMock.Tests.dll
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\obj\Debug\EstudoMock.Tests.pdb
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\Castle.Core.dll
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\Moq.dll
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\Castle.Core.xml
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\Moq.pdb
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\Moq.xml
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock.Tests\bin\Debug\System.ValueTuple.xml

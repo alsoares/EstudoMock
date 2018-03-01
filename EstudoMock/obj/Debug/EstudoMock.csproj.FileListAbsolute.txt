@@ -1,0 +1,6 @@
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock\bin\Debug\EstudoMock.exe.config
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock\bin\Debug\EstudoMock.exe
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock\bin\Debug\EstudoMock.pdb
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock\obj\Debug\EstudoMock.csprojResolveAssemblyReference.cache
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock\obj\Debug\EstudoMock.exe
+C:\Users\DE0185495\Desktop\Estudos\EstudoMock\EstudoMock\obj\Debug\EstudoMock.pdb
